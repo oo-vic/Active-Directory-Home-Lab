@@ -169,7 +169,7 @@ Administrative Center:
 
 Fine-grained policies allow different password rules for different groups 
 of users, unlike a standard domain-wide GPO password policy which applies 
-to everyone equally.<img width="1708" height="1017" alt="Homelab-12" src="https://github.com/user-attachments/assets/69c8757c-304b-40ac-9407-591f0a3074b9" />
+to everyone equally.
 
 
 ["Password Policy"](https://github.com/user-attachments/assets/66bb6bd3-fc47-46f4-bcb8-31468ef8757b)
