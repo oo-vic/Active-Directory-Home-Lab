@@ -198,6 +198,7 @@ the new computer appeared in ADUC and was moved into the correct OU so
 its policies would apply. The command `gpupdate /force` was run on the 
 client to immediately apply all GPOs. The Control Panel restriction 
 policy was confirmed working when access was blocked on the client machine.
+
 ["Domain Joined"](https://github.com/user-attachments/assets/78a51bf1-852a-4f04-b34b-9f3f4820d6c2)
 
 
