@@ -9,7 +9,7 @@ applying Group Policies, and connecting a client computer to the domain.
 The lab was built using VMware Workstation Pro, Windows Server 2025 as 
 the server, and Windows 11 Pro as the client machine.
 
-Based on the East Charmer YouTube Series
+Based on the East Charmer YouTube Series-(https://www.youtube.com/playlist?list=PLAdEnQWAAbfXMY2D4HVZOe-ChfTKmaJfQ)
 
 ---
 
